@@ -24,8 +24,4 @@ public abstract class PizzaFactory {
         pizza.cut();
         return pizza;
     }
-
-
-
-
 }
